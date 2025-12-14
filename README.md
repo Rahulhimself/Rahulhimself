@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rahul 👋</h1>
-<h3 align="center">AI/ML Engineer | LLMs | RAG | Data Scientist | Agentic AI</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist | LLMs | RAG | Agentic AI</h3>
 
 ---
 
@@ -11,7 +11,7 @@ I specialize in:
 - 🔹 Retrieval-Augmented Generation (RAG)  
 - 🔹 Agentic AI systems  
 - 🔹 Machine Learning Engineering  
-- 🔹 Data Engineering Pipelines (Spark)  
+- 🔹 Data Engineering Pipelines (Spark) 
 - 🔹 NLP, Embeddings & Retrieval Models
 
 ---
@@ -31,17 +31,8 @@ I specialize in:
 **ML & AI:** PyTorch, TensorFlow, HuggingFace, LangChain  
 **Data:** Spark, Pandas, NumPy, scikit-Learn, Airflow, MLflow
 **Tools:** Docker, Git, MLflow, Power BI  
-**Platforms:** AWS, Azure
+**Platforms:** AWS, Azure (AZ900 Certified)
 
 ---
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rahul.bkumar.503/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulhimself_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Rahul Bansode](https://www.linkedin.com/in/rahulbanasode/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulhimself_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulbkumar117@gmail.com) 
-
---- 
-
-### 🔗 Connect With Me  
-💼 **LinkedIn:** https://www.linkedin.com/in/rahulbanasode/
-🐙 **GitHub:** https://github.com/Rahulhimself 
-📧 **Email:** rahulbkumar117@gamil.com
-
----
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rahul.bkumar.503/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulhimself_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Rahul_Bansode](https://www.linkedin.com/in/rahulbanasode/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulhimself_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulbkumar117@gmail.com) 
