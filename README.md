@@ -27,7 +27,7 @@ I specialize in:
 ---
 
 ### 🧩 Tech Stack  
-**Languages:** Python, Scala, MS SQL Server, C  
+**Languages:** Python, Scala, MS SQL Server, C++ 
 **ML & AI:** PyTorch, TensorFlow, HuggingFace, LangChain  
 **Data:** Spark, Pandas, NumPy, scikit-Learn, Airflow, MLflow
 **Tools:** Docker, Git, MLflow, Power BI  
