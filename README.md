@@ -1,7 +1,7 @@
 # Hi, I'm Rahul 👋
 
 <p align="center">
-  <strong>AI/ML Engineer | Data Scientist | MLOps | Deep Learning & Forecasting</strong>
+  <strong>AI/ML Engineer | Data Scientist | MLOps </strong>
 </p>
 
 ---
