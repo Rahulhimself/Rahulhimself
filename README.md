@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Rahul B</h1>
-  <p><strong>Aspiring AI/ML Engineer | LLM Applications, Agentic Workflows & MLOps</strong></p>
+  <p><strong>Aspiring AI/ML Engineer | Multi AI Agentic Workflows | ML & AI Agent system Design |  MLOps </strong></p>
   <p>Open to full-time AI/ML Engineer roles · Bengaluru, India (Remote-friendly)</p>
-  <p>Bengaluru, India • <a href="mailto:rahulbkumar117@gmail.com">rahulbkumar117@gmail.com</a> • [+91-XXXXXXXXXX]</p>
+  <p>Bengaluru, India • <a href="mailto:rahulbkumar117@gmail.com">rahulbkumar117@gmail.com</a> • [+91-9353975256]</p>
 
   <p>
     <a href="https://rahul-bansode.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rahul--bansode.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -14,7 +14,7 @@
   </p>
 </div>
 
-<sub>Last updated: [Month Year]</sub>
+<sub>Last updated: [Sep 2026]</sub>
 
 ---
 
@@ -52,8 +52,6 @@ FastAPI endpoint for deployment to a cloud environment (AWS/Vertex AI, Azure ML)
 
 ### 🚀 Featured Projects
 
-### 🚀 Featured Projects
-
 #### 🤖 [AgenticSQL — Natural Language Database Agent](https://github.com/Rahulhimself/AgenticSQL)
 * **Stack:** Python, LangChain (ReAct agent), Google Gemini 2.5 Flash, MS SQL Server (SQLAlchemy + PyODBC), FastAPI, WebSocket
 * Conversational agent that turns plain-English questions into validated T-SQL, executes them, and explains results — with multi-turn memory for follow-up questions.
@@ -65,7 +63,7 @@ FastAPI endpoint for deployment to a cloud environment (AWS/Vertex AI, Azure ML)
 * **Stack:** TensorFlow/Keras, DVC, MLflow, Docker, Jenkins, AWS (S3, ECR, EC2)
 * Deep learning pipeline for chest radiograph classification with data versioning via DVC (raw images streamed from S3, tracked by hash) and experiment tracking via MLflow.
 * Jenkins CI/CD listens for GitHub pushes, builds a Docker image, pushes to ECR, and deploys to an EC2-hosted inference app.
-* **Result:** [validation accuracy / dataset size — check `scores.json` in the repo and fill in; not visible from the README alone]
+* **Result:** validation accuracy upto ~85% 100% Reproducibility-CI/CD Automation
 
 #### 🐱 [Cats vs. Dogs Image Classifier — CNN](https://github.com/Rahulhimself/CNNClassification)
 * **Stack:** TensorFlow, Keras, Flask, Docker, AWS (EC2, ECR), GitHub Actions
@@ -85,12 +83,6 @@ FastAPI endpoint for deployment to a cloud environment (AWS/Vertex AI, Azure ML)
 #### 📈 [Cloud-Native Predictive Pipeline on AWS SageMaker](https://github.com/Rahulhimself/SageMaker-Predictive-Pipeline)
 * **Stack:** AWS SageMaker, S3, Scikit-Learn, Python, REST APIs
 * End-to-end training/deployment pipeline: S3 ingestion, automated feature engineering, hyperparameter tuning, deployed to a live SageMaker inference endpoint.
-* **Result:** [model metric — fill in]
-
-#### 🛒 [Walmart Multi-Store Demand & Sales Forecasting](https://github.com/Rahulhimself/Walmart-sales-prediction)
-* **Stack:** Python, Statsmodels (ARIMA), Prophet, Scikit-Learn, Pandas
-* Multi-factor demand forecasting accounting for holiday promotions, CPI shifts, and unemployment variation; benchmarked classical time series vs. ensemble regressors.
-* **Result:** [forecast error / accuracy improvement — fill in]
 
 ---
 
