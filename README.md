@@ -20,7 +20,7 @@
 
 ### 📌 Overview
 
-I work on taking ML from notebooks to deployed, observable pipelines — containerized deep learning workflows (DVC, MLflow, Docker, Kubernetes) and LLM/agentic systems that turn natural language into structured actions (e.g. SQL). My strength is on the Building ML Models, Multi AI Agent models and deployment/MLOps.
+I work on taking ML from notebooks to prodcutionize code to deployment, observable pipelines — containerized deep learning workflows (DVC, MLflow, Docker, Kubernetes) and currently working on LLM/agentic systems that turn natural language into structured actions (e.g. SQL). My strength is on the Building ML Models, Multi AI Agent models and deployment/MLOps.
 Cuurently learning LLMOps
 
 ---
@@ -88,8 +88,10 @@ FastAPI endpoint for deployment to a cloud environment (AWS/Vertex AI, Azure ML)
 
 ### 🎓 Education & Certifications
 
-* **Executive Post-Graduate Certificate in AI & Data Science** — IIT Roorkee (iHUB DivyaSampark), *[Year]*
-* **B.E./B.Tech, Electronics & Communication (Minor: Machine Learning)** — PES University, *[Year]*
+* **Executive Post-Graduate Certificate in AI & Data Science** — IIT Roorkee (iHUB DivyaSampark), *[2025]*
+* **B.E./B.Tech, Electronics & Communication (Minor: Machine Learning)** — PES University, *[2024]*
+* **Microsoft Certified: Azure Fundamentals**  • <a href="https://learn.microsoft.com/en-us/users/rahulbansode-2144/credentials/3bc02b5f2cdb3dba">Cert link</a> *[2025]*
+* **Microsoft Azure AI Essentials Professional Certificate (Microsoft & LinkedIn)** • <a href="https://www.linkedin.com/learning/paths/microsoft-azure-ai-essentials-professional-certificate-by-microsoft-and-linkedin">Cert link</a> *[2025]*
 * [HackerRank Verified](https://www.hackerrank.com/profile/rahulbkumar118) • [LeetCode Profile](https://leetcode.com/u/rahulbkumar118)
 
 ---
